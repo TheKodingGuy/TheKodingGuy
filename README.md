@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello there!
+
+#### I'm John. I've learnt a couple programming languages and I'm learning new ones.
+#### I've taken courses in Python, HTML, and CSS.
+#### I'm currently taking a course in Java and another in JavaScript.
+#### If you have a job for me you can send me an email at > kodingguy@gmail.com < and I'll respond ASAP.
+
+#### I can handle both the front and back end development.
+#### My main interests are functional software and aesthetic websites.
 
 <!--
 **TheKodingGuy/TheKodingGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
