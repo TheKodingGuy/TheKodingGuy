@@ -1,4 +1,9 @@
-### Hi there 👋
+Hello there!
+I'm John.
+I have an interest in both frontend and backend and I love learning new languages and mastering the ones I already have experience in.
+So far I’ve learnt Python, HTML, and CSS.
+I'm currently learning Java and JavaScript
+
 
 <!--
 **TheKodingGuy/TheKodingGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
